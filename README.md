@@ -25,8 +25,4 @@ La réinitialisation des meilleurs scores se fait en supprimant le fichier image
 
 ## Licence
 
-One really important part: Give your project a proper license. Here you should
-state what the license is and how to find the text version of the license.
-Something like:
-
-"The code in this project is licensed under MIT license."
+Ce projet est sous licence GPL v3.
