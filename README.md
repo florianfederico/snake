@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="readme/01-accueil.png" alt="" width="400"/>
+</p>
+
 # Snake
 > Projet étudiant de développement Java
 
 Snake est un projet de développement en Java réalisé en 2014 par une équipe de 4 étudiants.
 
 <p align="center">
-  <img src="readme/01-accueil.png" alt="" width="600"/>
+  <img src="readme/Animation.gif" alt="" width="400"/>
 </p>
 
 ## Installing / Getting started
