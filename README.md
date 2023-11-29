@@ -1,10 +1,11 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
-
 # Snake
 > Projet étudiant de développement Java
 
-A brief description of your project, what it is used for and how does life get
-awesome when someone starts to use it.
+Snake est un projet de développement en Java réalisé en 2014 par une équipe de 4 étudiants.
+
+<p align="center">
+  <img src="readme/01-accueil.png" alt="" width="600"/>
+</p>
 
 ## Installing / Getting started
 
